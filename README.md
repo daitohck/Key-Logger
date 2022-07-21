@@ -8,6 +8,7 @@ the particularity in this key logger is that will send the result file in your p
 
 Tips for use :
 
+Wait around 20 second after the launch of the script, during those 20 seconds the script  is gonna downloads the library you need.
 To cut the program you have to press on "ESC" .
 
 
