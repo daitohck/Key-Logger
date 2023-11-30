@@ -16,10 +16,7 @@ Library to install :
 
 The python script is suppose to install the 3 library you need but if it is not working install on a POWERSHELL prompt 
 
- - pip install pyinput 
-
- - pip install requests 
-
- - pip install discord 
-
- - pip install time ( for the sleep() )
+     pip install pyinput 
+     pip install requests 
+     pip install discord 
+     pip install time
