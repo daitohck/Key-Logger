@@ -10,6 +10,7 @@ Tips for use :
 
 Wait around 20 second after the launch of the script, during those 20 seconds the script  is gonna downloads the library you need.
 To cut the program you have to press on "ESC" .
+After interrupting the script a file is send through a discord hook on your server .
 
 
 Library to install :
